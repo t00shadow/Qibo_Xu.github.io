@@ -9,13 +9,13 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4ziUcRq9dE4QpTT-Pf8Bz5TnuRKIvWvmn6bZ_9wfOCzYVxJZ0x5cAXkbWJhIoqxxX2tuWFNsb1BO70F7A&user=HnhsYXgAAAAJ
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -24,10 +24,10 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/temp_resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
