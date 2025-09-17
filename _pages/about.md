@@ -1,11 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋🏼 Hi there, I'm Qibo!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+---
+
+**🔍 I’m a fourth-year postdoc at UCLA’s Zhou Lab, using deep learning to decode molecular structure.**
+
+**📚 I hold a BSc in Physics, a PhD in Meteorology, and have spent three years in postdoctoral research in Structural Biology.**
+
+**🧠 My interests: discovering hidden patterns across scientific systems, and optimizing complex strategies.**
+  - 🧩 I build interpretable models to reveal structure in proteins, weather, and markets—bridging physics, biology, and data.
+
+  - ⚙️ I design efficiency: streamlining workflows, crafting investment logic, and engineering decision systems in Texas Hold’em.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
