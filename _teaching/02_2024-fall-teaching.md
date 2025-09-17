@@ -10,6 +10,8 @@ location: "Los Angeles, CA"
 
 **Project: Trace the Backbone of Protein and RNA with Known Key Atom Positions**
 
+**[Project proposal](/files/Project_2024-2025.pdf)**
+
 - Mentored senior bioengineering students during the **proposal development phase** of their capstone projects.  
 - Guided teams on **project scoping, background research, and NIH-style grant proposal writing**.  
 - Supervised students working on the project *“Trace the Backbone of Protein and RNA with Known Key Atom Positions”*, which focused on developing algorithms to reconstruct atomic backbones from cryo-EM maps.  

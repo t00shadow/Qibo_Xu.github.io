@@ -11,6 +11,8 @@ location: "Los Angeles, CA"
 
 **Project: Trace the Backbone of Protein and RNA with Known Key Atom Positions**
 
+**[Project proposal](/files/Project_2024-2025.pdf)**
+
 - Mentored student teams through the **implementation and algorithm development phase**, building on their Fall quarter proposals.  
 - Supervised progress on backbone-tracing research, including:  
   - Learning and applying **TSP and VRP algorithms** to structural biology problems.  

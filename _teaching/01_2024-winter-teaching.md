@@ -10,6 +10,8 @@ location: "Los Angeles, CA"
 
 **Project: Deep Learning-Enabled Approach for the Identification and Atomic Model Building of Large RNA-Protein Complexes from Cryogenic Electron Microscopy Maps**
 
+**[Project proposal](/files/Project_2023-2024.pdf)**
+
 - Mentored student teams through the **implementation and experimental phase** of their capstone projects, building on their Fall quarter proposals.  
 - Supervised progress on this project, advising on:  
   - **Training and testing deep learning models** for distinguishing DNA, RNA, and protein densities in cryo-EM maps.  
