@@ -15,8 +15,9 @@ redirect_from:
 
 **🧠 My interests: discovering hidden patterns across scientific systems, and optimizing complex strategies.**
   - 🧩 I build interpretable models to reveal structure in proteins, weather, and markets—bridging physics, biology, and data.
-
   - ⚙️ I design efficiency: streamlining workflows, crafting investment logic, and engineering decision systems in Texas Hold’em.
+
+---
 
 
 
