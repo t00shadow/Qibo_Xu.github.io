@@ -32,7 +32,7 @@ Previously, as a **Doctoral Researcher** at the Institute of Atmospheric Physics
 ## 📝 Publication Experience
 
 I lead independent research from concept to publication, with *first-author papers* in high-impact journals—including [the CryoDataBot study (preprint)](https://www.biorxiv.org/content/10.1101/2025.09.09.675185v1) and [a paper on SSW‑related weather prediction](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095431).  
-My work spans deep learning, structural biology, and climate modeling—each project driven by pattern discovery and arobust model design. For a full list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=HnhsYXgAAAAJ&hl=en).
+My work spans deep learning, structural biology, and climate modeling—each project driven by pattern discovery and a robust model design. For a full list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=HnhsYXgAAAAJ&hl=en).
 
 
 ## 👨🏻‍🏫 Teaching Experience
