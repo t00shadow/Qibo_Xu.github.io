@@ -1,5 +1,5 @@
 ---
-title: "BIOENGR 177B: Bioengineering Capstone Design Projects II"
+title: "BIOENGR 177B: Bioengineering Capstone Design Projects"
 collection: teaching
 type: "Senior Capstone Course"
 permalink: /teaching/02_2025-winter-teaching

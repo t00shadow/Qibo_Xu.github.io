@@ -18,6 +18,6 @@ location: "Los Angeles, CA"
   - **Graphical User Interface (GUI) design**, ensuring usability for non-expert researchers in structural biology.  
   - Integration of preliminary results into **journal-style manuscripts** (Introduction, Methods, Results, Figures).  
 - Guided students in the **automated curation of cryo-EM datasets**, organizing the workflow into a manuscript that was prepared and published on [**bioRxiv**](https://doi.org/10.1101/2025.09.09.675185).  
-- Supported preparation of **[posters](/files/Final_poster_2024_winter.pdf)** and **[oral presentations](https://docs.google.com/presentation/d/1ljmwfj5BKin_IFQjOL7XL-tkaiSIHXBs?rtpof=true&usp=drive_fs)** for the Capstone Symposium, emphasizing clarity of AI-driven structural biology results to both scientific and industry audiences.
+- Supported preparation of **[posters](/files/Final_poster_2024_winter.pdf)** and **[oral presentations](https://docs.google.com/presentation/d/1KKssArpVaIbSFh-RYzmHPYyw7As5qkRi/edit?usp=sharing&ouid=112808743791861897029&rtpof=true&sd=true)** for the Capstone Symposium, emphasizing clarity of AI-driven structural biology results to both scientific and industry audiences.
 
 
