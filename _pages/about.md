@@ -26,7 +26,7 @@ Currently, I am a **Postdoctoral Researcher** at UCLA’s Zhou Lab, where I *des
 
 As the **Lead Developer** of [CryoDataBot](https://github.com/t00shadow/CryoDataBot), I *built a full-stack pipeline for cryoEM dataset generation and annotation*. The resulting datasets improved model precision by over 22%.
 
-Previously, as a **Doctoral Researcher** at the Institute of Atmospheric Physics, Chinese Academy of Sciences, I *investigated the impact of stratospheric sudden warming (SSW) on weather systems using machine learning*. I proposed a spatiotemporal PCA method for post‑event extreme weather prediction, leveraging multivariate climate datasets. 
+Previously, as a **Doctoral Researcher** at the Institute of Atmospheric Physics, Chinese Academy of Sciences, I *investigated the impact of stratospheric sudden warming (SSW) on weather systems using machine learning*. I proposed a spatiotemporal PCA method for post‑event weather prediction, leveraging multivariate climate datasets. 
 
 
 ## 📝 Publication Experience
