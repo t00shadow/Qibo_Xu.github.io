@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hi there, I'm Qibo!"
+title: "Hi there, I'm Qibo!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 
-**🔍 I’m a fourth-year postdoc at UCLA’s [Zhou Lab](https://zhoulab.org/), using deep learning to decode molecular structure.**
+**🔍 I’m a postdoc at UCLA’s [Zhou Lab](https://zhoulab.org/), using deep learning to decode molecular structure.**
 
 **📚 I hold a BSc in [Physics](https://english.phy.pku.edu.cn/), a PhD in [Meteorology](http://english.iap.cas.cn/), and have spent three years in postdoctoral research in [Structural Biology](https://cnsi.ucla.edu/).**
 
@@ -19,24 +19,23 @@ redirect_from:
 ---
 
 
-Selected Projects
-======
-**CryoID2: AI framework for protein/RNA identification in cryo-electron microscopy (cryoEM) maps**
-- Implemented multi-hierarchical U-Net from scratch using PyTorch to capture volumetric features
-- Integrated into an inference workflow with automated preprocessing for scalable deployment
-- Achieved high recall on key biological features (0.9788/0.9895/0.8266)
+# Selected Experience
+## 🧑🏻‍🔬 Research Experience
+
+Currently, I am a **Postdoctoral Researcher** at UCLA’s Zhou Lab, where I *design deep learning frameworks for protein and RNA identification in cryoEM maps*. My work focuses on multi‑hierarchical U‑Nets and scalable inference pipelines with automated preprocessing, driving end‑to‑end structure reconstruction from cryoEM density to atomic models.
+
+As the **Lead Developer** of [CryoDataBot](https://github.com/t00shadow/CryoDataBot), I *built a full-stack pipeline for cryoEM dataset generation and annotation*. The resulting datasets improved model precision by over 22%.
+
+Previously, as a **Doctoral Researcher** at the Institute of Atmospheric Physics, Chinese Academy of Sciences, I *investigated the impact of stratospheric sudden warming (SSW) on weather systems using machine learning*. I proposed a spatiotemporal PCA method for post‑event extreme weather prediction, leveraging multivariate climate datasets. 
 
 
+## 📝 Publication Experience
 
-**CryoDataBot: Scalable cryoEM dataset generation for supervised learning applications**
-- Orchestrated an end-to-end pipeline covering data acquisition, preprocessing, and fine-grained annotation at scale
-- Generated datasets used to retrain deep learning models, improving precision over 22% (0.556 -> 0.679)
-- Supervised 4 team members; delegated tasks based on individual strengths and ensured timely progress
-        
+I lead independent research from concept to publication, with **first-author papers** in high-impact journals—including [the CryoDataBot study (preprint)](https://www.biorxiv.org/content/10.1101/2025.09.09.675185v1) and [a paper on SSW‑related weather prediction](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL095431).  
+My work spans deep learning, structural biology, and climate modeling—each project driven by pattern discovery and arobust model design. For a full list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=HnhsYXgAAAAJ&hl=en).
 
-**Stratospheric sudden warming (SSW) predictive modeling — post-event weather prediction**
-- Developed a novel spatiotemporal PCA method to extract dominant modes from multi climate datasets
-- Trained ML models on principal components to achieve 75% accuracy in post-event weather prediction
 
-keep111
-add somesda sa dsa da s
+## 👨🏻‍🏫 Teaching Experience
+I mentor senior bioengineering students at UCLA, helping them turn deep learning ideas into real research. From cryoEM pipelines to backbone-tracing algorithms, I guide teams through proposals, models, and manuscripts—sometimes all in one quarter. If it lands on bioRxiv or earns a poster spot at the Capstone Symposium, even better.
+
+Check out [the Teaching page](/teaching/) for more.
